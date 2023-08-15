@@ -1,0 +1,60 @@
+body {
+    background-color: black;
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/132/919/800/5bd2ef3b8eb9e-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-weight: 900;
+}
+
+p {
+    font-family: fantasy;
+    font-weight: bolder;
+    color: blue;
+    letter-spacing: 2px;
+}
+
+h1 {
+    font-style: oblique;
+    text-decoration: line-through;
+}
+
+ul li {
+    list-style: none;
+    color: blue;
+    letter-spacing: 1px;
+}
+
+.container {
+    text-align: center;
+    margin-top: 7%;
+    margin-left: 60%;
+    margin-right: 10%;
+    border: 8px solid black;
+    border-radius: 20%;
+}
+
+.div-2 {
+    text-align: center;
+    margin-right: 1%;
+}
+
+.social a {
+    color: black;
+    text-decoration: none;
+    letter-spacing: 4px;
+}
+
+a:hover {
+    background-color: firebrick;
+    color: white;
+}
+
+.firaas {
+    position: absolute;
+    bottom: 2em;
+    left: 2%;
+    width: 50%;
+    height: 40em;
+    margin-top: -40%;
+    opacity: .6;
+}
